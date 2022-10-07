@@ -1,0 +1,14 @@
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\ClassKurs_UI.deps.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\ClassKurs_UI.runtimeconfig.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\ClassKurs_UI.runtimeconfig.dev.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\ClassKurs_UI.dll
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\ClassKurs_UI.pdb
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\Classes.dll
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\bin\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.csprojAssemblyReference.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.AssemblyInfoInputs.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.AssemblyInfo.cs
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.csproj.CopyComplete
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.dll
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\ClassKurs_UI\obj\Debug\netcoreapp2.1\ClassKurs_UI.pdb

@@ -1,0 +1,11 @@
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\bin\Debug\netcoreapp2.1\Classes.deps.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\bin\Debug\netcoreapp2.1\Classes.runtimeconfig.dev.json
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\bin\Debug\netcoreapp2.1\Classes.dll
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\bin\Debug\netcoreapp2.1\Classes.pdb
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.csprojAssemblyReference.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfoInputs.cache
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.AssemblyInfo.cs
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.dll
+C:\Users\ibrahim.kaya\source\repos\ClassKurs\Classes\obj\Debug\netcoreapp2.1\Classes.pdb
